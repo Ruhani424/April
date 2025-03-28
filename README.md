@@ -1,5 +1,6 @@
 <p>
   <h1>
-    this is my scm project
+    This is my scm project 
+    I am second semester student.
   </h1>
 </p>
